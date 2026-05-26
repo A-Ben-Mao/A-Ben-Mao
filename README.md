@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7B68EE&width=600&lines=Hi+%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF+ABenMao;%E4%B8%80%E4%B8%AA%E6%8E%A2%E7%B4%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%96%E7%95%8C%E7%9A%84%E5%8C%BB%E5%AD%A6%E7%94%9F%2C~~%E5%B0%9A%E5%9C%A8%E8%AF%BB.jpg~~;%E8%AE%B0%E5%BD%95%E5%8C%BB%E5%AD%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E7%A7%91%E7%A0%94%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%BB%8F%E9%AA%8C)
+![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=800&color=7B68EE&width=650&lines=%E4%B8%80%E4%B8%AA%E5%B0%9D%E8%AF%95%E6%8E%A2%E7%B4%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%96%E7%95%8C%E7%9A%84%E5%8C%BB%E5%AD%A6%E7%94%9F%EF%BC%8C~~%E5%B0%9A%E5%9C%A8%E8%AF%BB.jpg~~)
 
 ![GitHub followers](https://img.shields.io/github/followers/A-Ben-Mao?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/A-Ben-Mao?style=flat-square)
@@ -23,7 +23,3 @@
 ## 🏷️ Topics
 
 `bioinformatics` `genomics` `transcriptomics` `single-cell` `GWAS` `qPCR` `TCGA` `R` `Python`
-
----
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/A-Ben-Mao/A-Ben-Mao/output/github-contribution-grid-snake.svg)
