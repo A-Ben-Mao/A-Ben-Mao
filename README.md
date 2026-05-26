@@ -12,31 +12,14 @@
 
 ## 📦 仓库
 
-### 🤖 Agent Skill
-
-| 项目 | 简介 | 语言 |
-|------|------|------|
-| [easy-qPCR-primer](https://github.com/A-Ben-Mao/easy-qPCR-primer) | qPCR 引物设计自动化，告别手搓 | Python |
-
-### 📊 生信分析流程
-
-| 项目 | 简介 | 语言 |
-|------|------|------|
-| [scRNA_seq_Analysis](https://github.com/A-Ben-Mao/scRNA_seq_Analysis) | 单细胞测序分析全流程代码 | R |
-| [Basic_Bioinformatics_Analysis](https://github.com/A-Ben-Mao/Basic_Bioinformatics_Analysis) | TCGA / GEO 数据标准分析流程 | R |
-
-### 🛠️ 实用小工具
-
-| 项目 | 简介 | 语言 |
-|------|------|------|
-| [rsID_to_CHR_BP](https://github.com/A-Ben-Mao/rsID_to_CHR_BP) | GWAS 中 rsID 的 CHR/BP 注释小工具 | R |
-| [Genotyping_of_sequencing](https://github.com/A-Ben-Mao/Genotyping_of_sequencing) | Sanger 测序结果分析 & 基因分型 | Python |
-
-### 📖 学习资源
-
-| 项目 | 简介 | 语言 |
-|------|------|------|
-| [Medical_Self_Study_Repo](https://github.com/A-Ben-Mao/Medical_Self_Study_Repo) | 医学科研自学路上的资料整理 | — |
+| 分类 | 项目 | 简介 | 语言 |
+|------|------|------|------|
+| 📖 **学习资源** | [Medical_Self_Study_Repo](https://github.com/A-Ben-Mao/Medical_Self_Study_Repo) | 医学科研自学路上的资料整理 | — |
+| 📊 **生信分析流程** | [scRNA_seq_Analysis](https://github.com/A-Ben-Mao/scRNA_seq_Analysis) | 单细胞测序分析全流程代码 | R |
+| | [Basic_Bioinformatics_Analysis](https://github.com/A-Ben-Mao/Basic_Bioinformatics_Analysis) | TCGA / GEO 数据标准分析流程 | R |
+| 🤖 **Agent Skill** | [easy-qPCR-primer](https://github.com/A-Ben-Mao/easy-qPCR-primer) | qPCR 引物设计自动化，告别手搓 | Python |
+| 🛠️ **实用小工具** | [rsID_to_CHR_BP](https://github.com/A-Ben-Mao/rsID_to_CHR_BP) | GWAS 中 rsID 的 CHR/BP 注释小工具 | R |
+| | [Genotyping_of_sequencing](https://github.com/A-Ben-Mao/Genotyping_of_sequencing) | Sanger 测序结果分析 & 基因分型 | Python |
 
 ---
 
