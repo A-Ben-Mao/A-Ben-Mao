@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="30" viewBox="0 0 620 30">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6A5ACD"/>
+      <stop offset="100%" stop-color="#9370DB"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="20" font-family="sans-serif" font-size="15" fill="url(#g2)">🍀 一个尝试探索计算机世界的医学生，尚且在读.jpg</text>
+</svg>
