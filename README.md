@@ -1,8 +1,7 @@
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&color=7B68EE&width=600&lines=Hi+%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF+ABenMao)
 
-🍀 一个尝试探索计算机世界的医学生，尚且在读.jpg
-
-📝 想要在这里记录、分享医学学习与科研中的一些小经验
+![](line2.svg)
+![](line3.svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/A-Ben-Mao?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/A-Ben-Mao?style=flat-square)
