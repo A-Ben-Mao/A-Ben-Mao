@@ -1,24 +1,8 @@
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&color=7B68EE&width=600&lines=Hi+%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF+ABenMao)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="25" viewBox="0 0 620 25">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6A5ACD"/>
-      <stop offset="100%" stop-color="#9370DB"/>
-    </linearGradient>
-  </defs>
-  <text x="0" y="18" font-family="sans-serif" font-size="15" fill="url(#grad1)">🍀 一个尝试探索计算机世界的医学生，尚且在读.jpg</text>
-</svg>
+🍀 一个尝试探索计算机世界的医学生，尚且在读.jpg
 
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="25" viewBox="0 0 620 25">
-  <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7B68EE"/>
-      <stop offset="100%" stop-color="#4169E1"/>
-    </linearGradient>
-  </defs>
-  <text x="0" y="18" font-family="sans-serif" font-size="15" fill="url(#grad2)">📝 想要在这里记录、分享医学学习与科研中的一些小经验</text>
-</svg>
+📝 想要在这里记录、分享医学学习与科研中的一些小经验
 
 ![GitHub followers](https://img.shields.io/github/followers/A-Ben-Mao?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/A-Ben-Mao?style=flat-square)
