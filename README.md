@@ -7,6 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/A-Ben-Mao?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/A-Ben-Mao?style=flat-square)
 
+📺 **B站**: [Broca区想发言](https://space.bilibili.com/3632308559022298)
+
 ---
 
 ## 📦 仓库
@@ -19,12 +21,6 @@
 | [rsID_to_CHR_BP](https://github.com/A-Ben-Mao/rsID_to_CHR_BP) | GWAS 中 rsID 的 CHR/BP 注释小工具 | R |
 | [Genotyping_of_sequencing](https://github.com/A-Ben-Mao/Genotyping_of_sequencing) | Sanger 测序结果分析 & 基因分型 | Python |
 | [Medical_Self_Study_Repo](https://github.com/A-Ben-Mao/Medical_Self_Study_Repo) | 医学科研自学路上的资料整理 | — |
-
----
-
-## 🌐 其他地方
-
-- **B站**: [Broca区想发言](https://space.bilibili.com/3632308559022298) — 想要用视频分享知识
 
 ---
 
