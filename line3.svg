@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="30" viewBox="0 0 620 30">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B68EE"/>
+      <stop offset="100%" stop-color="#4169E1"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="20" font-family="sans-serif" font-size="15" fill="url(#g3)">📝 想要在这里记录、分享医学学习与科研中的一些小经验</text>
+</svg>
